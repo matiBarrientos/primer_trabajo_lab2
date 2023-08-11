@@ -12,15 +12,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Hola_mundo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Hola_mundo.java">
+      <file leaf-file-name="ordenar_tres_numeros.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ordenar_tres_numeros.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#67#68#0" expanded="true" />
-                <element signature="e#115#116#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="197">
+              <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,6 +43,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Hola_mundo.java" />
+        <option value="$PROJECT_DIR$/src/ordenar_tres_numeros.java" />
       </list>
     </option>
   </component>
@@ -74,6 +72,11 @@
               <item name="primer_trabajo_lab2" type="b2602c69:ProjectViewProjectNode" />
               <item name="primer_trabajo_lab2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="primer_trabajo_lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primer_trabajo_lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -96,7 +99,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hola_mundo">
+  <component name="RunManager" selected="Application.ordenar_tres_numeros">
     <configuration name="Hola_mundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Hola_mundo" />
@@ -192,14 +195,36 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="ordenar_tres_numeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ordenar_tres_numeros" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="primer_trabajo_lab2" />
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Hola_mundo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ordenar_tres_numeros" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Hola_mundo" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.ordenar_tres_numeros" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Hola_mundo" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -213,7 +238,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -261,6 +285,14 @@
             <element signature="e#67#68#0" expanded="true" />
             <element signature="e#115#116#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ordenar_tres_numeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
